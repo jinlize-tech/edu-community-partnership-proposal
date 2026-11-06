@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-010",
+  "repository_name": "edu-community-partnership-proposal",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-community-partnership-proposal-v1.0.0.zip",
+  "sha256": "385380802D831360293FFB69536013D49C408992B5919B30AE9AFCFCED400D42",
+  "bytes": 4984,
+  "entries": [
+    "edu-community-partnership-proposal/SKILL.md",
+    "edu-community-partnership-proposal/references/DOMAIN_GUIDE.md",
+    "edu-community-partnership-proposal/references/EXAMPLES.md",
+    "edu-community-partnership-proposal/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T21:38:31.4859064+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

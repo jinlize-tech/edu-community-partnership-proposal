@@ -1,0 +1,24 @@
+{
+  "number": 10,
+  "product_id": "JLZ-EDU-SK-010",
+  "chinese_name": "异业合作方案",
+  "english_name": "Community Partnership Proposal",
+  "repository_name": "edu-community-partnership-proposal",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-community-partnership-proposal-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "目标社区、商圈或企业名单、合作目标、可用资源、预算和合规限制",
+  "main_output": "合作对象地图、价值主张、合作模式、资源置换方案、执行步骤和评估指标",
+  "package_entries": [
+    "edu-community-partnership-proposal/SKILL.md",
+    "edu-community-partnership-proposal/references/DOMAIN_GUIDE.md",
+    "edu-community-partnership-proposal/references/EXAMPLES.md",
+    "edu-community-partnership-proposal/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
